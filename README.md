@@ -1,6 +1,4 @@
-prueba
+Prueba  
 ======
 
-
-dfgdg
-Ejemplo de prueba
+Inicio
